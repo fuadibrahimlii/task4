@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+
+.first{
+  box-sizing: border-box;
+  background-color: green;
+  width: 100%;
+  height: 30vh;
+  border: 7px solid yellowgreen;
+    
+}
+
+.second{
+    box-sizing: border-box;
+    background-color: yellow;
+    width: 100%;
+    height: 70vh;
+}
+
+.a {
+    
+    background-color: white;
+    width: 100px;
+    height: 40px;
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+    
+}
+
+.b{
+    background-color: white;
+    position: relative;
+    bottom: 20px;
+    width: 140px;
+    height: 30px;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.c{
+    background-color: white;
+    position: relative;
+    left: 12%;
+    bottom: 18%;
+    width: 15vw;
+    height: 30px;
+    padding: 20px;
+    text-align: center;
+}
